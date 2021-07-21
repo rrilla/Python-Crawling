@@ -5,6 +5,7 @@
   pip install selenium
   pip install beautifulsoup4
   pip install PyMySQL
+  pip install requests
 ```
 
 ## 2. Chrome Driver 설치
